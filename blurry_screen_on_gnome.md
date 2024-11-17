@@ -9,7 +9,7 @@ So this is our topic now takes a look in the descussion websites.
 ## Research 
 
 
-=> For browser in the gnome when it blurry it can solved using <b>Prefered Ozon Platform</b>. Now take a look how is this possible.
+### For browser in the gnome when it blurry it can solved using <b>Prefered Ozon Platform</b>. Now take a look how is this possible.
 
 the link for the discussion:
 https://discourse.gnome.org/t/is-there-any-way-i-could-fix-or-mitigate-the-blur-on-applications-using-xwayland-caused-by-fractional-scaling/17052
